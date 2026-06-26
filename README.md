@@ -2,14 +2,14 @@
 
 JSDelivr Data API MCP
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 673+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 965+ live data sources.
 
 ## Tools
 
 | Tool | Description |
 |------|-------------|
 | `npm_package_stats` | Request counts + bandwidth for an npm package served via JSDelivr. |
-| `gh_repo_stats` | JSDelivr stats for files served from a GitHub repo (e.g. branch/tag URLs). |
+| `gh_repo_stats` | Return JSDelivr CDN request count and bandwidth for files served from a GitHub owner/repo for the specified period (day/week/month/quarter/year). |
 | `top_npm_packages` | JSDelivr leaderboard of top-served npm packages. |
 | `list_npm_files` | List files (and their sizes/types) inside a published npm version. |
 | `resolve_version` | Resolve a semver range or tag to a concrete published version. |
@@ -29,7 +29,7 @@ Add to your MCP client (Claude Desktop, Cursor, Windsurf, etc.):
 }
 ```
 
-Or connect to the full Pipeworx gateway for access to all 673+ data sources:
+Or connect to the full Pipeworx gateway for access to all 965+ data sources:
 
 ```json
 {

@@ -44,7 +44,7 @@ const tools: McpToolExport['tools'] = [
   },
   {
     name: 'gh_repo_stats',
-    description: 'JSDelivr stats for files served from a GitHub repo (e.g. branch/tag URLs).',
+    description: 'Return JSDelivr CDN request count and bandwidth for files served from a GitHub owner/repo for the specified period (day/week/month/quarter/year).',
     inputSchema: {
       type: 'object',
       properties: {
