@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-jsdelivr",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "JSDelivr Data API MCP",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-8433ee55ccff7bf5491fc47101b24fb21b9d0a01b356e47c87b9961266c0712a",
-    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
+    "sourceHash": "v1-ad91dab4c0e87e6c19fe25f8aee3d1e0127b85723ca6e8be7db43f54b2869f17",
+    "sourceCommit": "33741fe6d9ba71856e73fa683c73572d1ddf2e93"
   }
 }
