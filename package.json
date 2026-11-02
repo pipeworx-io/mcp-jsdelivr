@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-jsdelivr",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "JSDelivr Data API MCP",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "jsdelivr",
     "gatewaySlug": "jsdelivr",
-    "sourceHash": "v1-5acbeb9cc0def9692bc991536a0f0f790deccbde96da954fe076c3c980b8bbe8",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-da496e588c39c4f25d68798baeaddf5dcd60f7270e646a844fc403d82d4e4914",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
